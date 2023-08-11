@@ -43,6 +43,9 @@ You can interact with the report [here](https://1drv.ms/x/s!Ags6B4mGiu5VeJ69cp7i
 
 ## Analysis
 The company currently has a total of 37542 customers with 19 different color types of cars and car_use varies between whether it is private or commercial. The total household income is $5, 527, 962,182 while the average claim amount per year is $34,780,934.74. Most cars' coverage zone is Urban and Customers using Ford are the highest. Most customers are single and most parent driving are those with 1 kid.
+Marital Status               | Kids driving                 |  Parents
+  :-------------------------:|:--------------------------:  | :------------------:
+  ![](maritalstatus.png)     |   ![](kidsdriving.png)       |  ![](parents.png)
 
 ## Conclusion and Recommendation
 - Most customers drive a turquoise color car while few customers drive Mauv color car
