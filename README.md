@@ -3,7 +3,7 @@
 ![](car.jpg)
 ___
 ## Introduction
-This is an Excel project on the sales analysis of a car insurance company. The dataset is named **Car Insurance**
+This is an Excel project on the sales analysis of a car insurance company. The dataset is named **Insurance Policies**
 The project is to analyze and derive insight to answer crucial questions on car insurance policies and help the company make data-driven decisions.
 
 **_Disclaimer_**: _All datasets and reports do not represent any company, institution, or country, but just a sample dataset to demonstrate capabilities of Excel._ 
